@@ -1,7 +1,7 @@
 # Mediapipe_project
 Vehicle_intelligence_Mediapipe_project
 
-# **손카; 손과 차의 커뮤니케이션**
+# **손카; 손과 차의 커뮤니케이션** :open_hands::blue_car:
 : 커넥티드 카의 음성인식 기술의 단점을 보완할 수 있는 손동작 인식 기술
 
 ## 예상성과
